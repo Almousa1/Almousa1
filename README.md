@@ -1,24 +1,20 @@
 <h1 align="center">Hi, I'm Abdullah Almousa 👋</h1>
 
 <p align="center">
-  <b>Full‑Stack .NET Developer (React + ASP.NET Core)</b><br/>
-  B.Sc. in Computer Science • Saudi Arabia • Arabic / English
+  <b>Full-Stack .NET Developer</b> — React + ASP.NET Core<br/>
+  B.Sc. Computer Science &nbsp;·&nbsp; Saudi Arabia &nbsp;·&nbsp; Arabic / English
 </p>
 
 <p align="center">
   <a href="mailto:abdullah.a.hussain.a@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-abdullah.a.hussain.a%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abdullah-a-almousa/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-abdullah--a--almousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Almousa1">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Almousa1-111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="520" />
 </p>
 
 ---
