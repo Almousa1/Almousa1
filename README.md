@@ -16,8 +16,10 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="520" />
+</p>
 
----
 
 ## 👨🏻‍💻 About Me
 - I build production-style web apps with **ASP.NET Core Web API + EF Core + PostgreSQL** and modern frontends with **React + TypeScript**.
