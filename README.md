@@ -75,29 +75,11 @@ A platform for content studios to manage:
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 
-<p align="center">
-  <img
-    alt="Abdullah's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Almousa1&show_icons=true&hide_border=true&rank_icon=github"
-    height="160"
-  />
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almousa1&layout=compact&hide_border=true"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=Almousa1&hide_border=true"
-    height="160"
-  />
-</p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Almousa1&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almousa1&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Almousa1)
 ---
 
 ## 📫 Contact
