@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://a-almousa2.vercel.app">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-a-almousa2.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:abdullah.a.hussain.a@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
